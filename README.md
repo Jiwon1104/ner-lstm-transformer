@@ -61,21 +61,6 @@ Shared Settings
 ⸻
 
 ## Training Results
-
-## LSTM Model
-
-Epoch	  Train Acc 	Val Acc	  Train Loss   Val Loss
-1	       0.7855	    0.8255	    0.9666	    0.6813
-…	          …	         …	         …	         …
-20	     0.9990	    0.8688	    0.0135	    0.6144
-
-## Transformer Model
-
-Epoch	  Train Acc	  Val Acc	  Train Loss   Val Loss
-1	       0.8140	    0.8255	   0.7117	      0.6955
-…	          …	         …	        …	           …
-20	     0.9952	    0.8699	   0.0186	      0.7781
-
 The LSTM model showed better generalization and lower validation loss.
 
 ⸻
